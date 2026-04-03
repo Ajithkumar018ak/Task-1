@@ -1,4 +1,4 @@
-// 1
+/* 1
 var a = 10;
 a = 20;
 var a = 30;
@@ -209,4 +209,4 @@ console.log(c); // 2
 // 40
 const c = 4;
 c = 8;
-Console.log(c); Type error
+Console.log(c); Type error */
