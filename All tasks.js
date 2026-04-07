@@ -154,7 +154,7 @@ favFruits.push(prompt("Enter fruit 3:"));
 console.log(favFruits); */
 
 
-
+// Loan
 let name = prompt("Enter Name:");
 let ageInput = prompt("Enter Age:");
 let salaryInput = prompt("Enter Monthly Salary:");
