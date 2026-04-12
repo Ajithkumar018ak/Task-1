@@ -1,4 +1,4 @@
-//1. Print name & designation
+/*1. Print name & designation
 console.log("Name: Ajith");
 console.log("Designation: Front end Developer");
 
@@ -151,4 +151,4 @@ favFruits.push(prompt("Enter fruit 1:"));
 favFruits.push(prompt("Enter fruit 2:"));
 favFruits.push(prompt("Enter fruit 3:"));
 
-console.log(favFruits); 
+console.log(favFruits); */

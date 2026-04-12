@@ -1,4 +1,4 @@
-function calculateDiscount(product, price) {
+/*function calculateDiscount(product, price) {
 
     let discount;
     let finalPrice;
@@ -193,4 +193,4 @@ let offerList = ["10% OFF", "20% OFF", "Free Delivery"];
 
 for (let i = 0; i < offerList.length; i++) {
     console.log(offerList[i]);
-}
+}*/
