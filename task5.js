@@ -1,4 +1,4 @@
-let cart1 = [
+/*let cart1 = [
   { name: "Shirt", price: 500 },
   { name: "Shoes", price: 1500 }
 ];
@@ -121,3 +121,4 @@ function processData(...data) {
 }
 
 console.log(processData(1, 2, [3, 4], [5, [6]], 2, 3));
+*/
