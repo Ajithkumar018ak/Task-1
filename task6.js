@@ -43,10 +43,7 @@ let employees = [
 ];
 
 
-let updated = employees.map(e => ({
-  ...e,
-  salary: e.salary * 1.1
-}));
+let updated = employees.map(e => ({...e,salary: e.salary * 1.1}));
 let high = employees.filter(e => e.salary > 30000);
 let totalSalary = employees.reduce((sum, e) => sum + e.salary, 0);
 let sorted = [...employees].sort((a, b) => a.salary - b.salary);
@@ -88,7 +85,11 @@ let inputPass = "1234";
 
 let user = users.find(u => u.username === inputUser && u.password === inputPass);
 
-console.log(user ? "Login Success " : "Invalid Credentials ");
+if (user) {
+  console.log("Login Success ");
+} else {
+  console.log("Invalid Credentials ");
+}
 
 //7
 
