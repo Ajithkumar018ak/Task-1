@@ -1,4 +1,4 @@
-//1
+/*1
 
 let cart = [
   {name: "Shirt", price: 500, qty: 2},
@@ -122,4 +122,4 @@ let sortedorders = [...orders].sort((a, b) => a.amount - b.amount);
 console.log(revenue);
 console.log(pending);
 console.log(big);
-console.log(sortedorders);
+console.log(sortedorders); */
