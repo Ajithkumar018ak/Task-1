@@ -1,4 +1,4 @@
-Task -3
+/*Task -3
  Loan
 let name = prompt("Enter Name:");
 let ageInput = prompt("Enter Age:");
@@ -59,4 +59,4 @@ switch (true) {
         break;
     default:
         console.log("Customer Type: Basic Customer");
-} 
+} */
