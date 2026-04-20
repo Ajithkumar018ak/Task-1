@@ -1,4 +1,4 @@
-//1
+/*1
 
 console.log("Order placed");
 
@@ -89,4 +89,4 @@ getProducts()
     })
     .finally(() => {
         console.log("API Call Completed");
-    });
+    }); */
